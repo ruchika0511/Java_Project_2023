@@ -4,16 +4,16 @@ public class Program01 {
 
 	public static void main(String[] args) {
 		
-cal(10,20);
-cal(12,13);
-cal(14,16);
-cal(17,18);
+comp(10,20,30);
+comp(12,13,15);
+comp(14,16,19);
+comp(17,18,11);
 
 	}
-	public static void cal(int a, int b) {
-		System.out.println(a+b);
-		System.out.println(a-b);
-		System.out.println(a*b);
+	public static void comp (int a, int b, int c) {
+		System.out.println(a+b+c);
+		System.out.println((a-b)*c);
+		System.out.println((a*b)*c);
 		
 		
 		
