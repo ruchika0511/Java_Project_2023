@@ -8,11 +8,16 @@ public class Program01 {
 	add(1.1,1.2);
 	add(23,24,25);
 	add(324,854);
+	System.out.println(main(1,2));
+	
 	
 
 	
 	}
-
+public static int main(int a, int b){
+	
+	return a+b;
+}
 	public static void add(int a, int b) {
 	System.out.println(a+b);
 	
