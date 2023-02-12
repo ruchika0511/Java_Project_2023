@@ -13,6 +13,7 @@ public class Program01 {
 	    int b= x.nextInt();
 	    		System.out.println("Enter double value of c..");
 	    double c= x.nextDouble();
+	    x.close();
 	    
 //int() int---->int
 	    //int () double---->double
