@@ -9,7 +9,7 @@ public class Program01 {
 	
 		
 	    if(a>b)
-	    	if(a<b)
+	    
 		
 		{
 			System.out.println("Good Afternoon...");
