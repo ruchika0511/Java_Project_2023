@@ -3,7 +3,7 @@ package day08;
 public class Program02 {
 
 	public static void main(String[] args) {
-		int e=15;
+		int e=2;
 		int f=20;
 				
 	    if(e>f)
