@@ -10,6 +10,7 @@ public class Program03 {
 		System.out.println("Enter the number...");
 		
 		int p = x.nextInt();
+		x.close();
 		
 		
 		
