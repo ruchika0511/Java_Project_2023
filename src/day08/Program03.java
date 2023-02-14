@@ -1,9 +1,18 @@
 package day08;
 
+import java.util.Scanner;
+
 public class Program03 {
 
 	public static void main(String[] args) {
-		int p=21;
+		Scanner x= new Scanner(System.in);
+		
+		System.out.println("Enter the number...");
+		
+		int p = x.nextInt();
+		
+		
+		
 		
 		if (p%2==0)
 		{
@@ -13,6 +22,7 @@ public class Program03 {
 		else 
 		{
 			System.out.println("p is odd...");
+		
 			}
 		}
 
