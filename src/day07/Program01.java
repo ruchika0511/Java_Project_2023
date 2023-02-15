@@ -31,6 +31,9 @@ public class Program01 {
 	System.out.println(a/b);
 	System.out.println(b/c);
 	System.out.println(a/c);
+	
+	
+	
 	System.out.println(a%b);
 	System.out.println(b%c);
 	System.out.println(a%c);
