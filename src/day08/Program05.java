@@ -14,16 +14,16 @@ public class Program05 {
 	
 	if ((a>b)&&(a>c))
     {
-		System.out.println("if a is the greatest number...");
+		System.out.println("a is the greater than b & c...");
 	}
 	else if ((b>a)&&(b>c))
 	{
-		System.out.println("if b is the greatest number...");
+		System.out.println("b is the greater than a & c...");
 	
 	}
 	else 
 	{
-		System.out.println("if c is the greatest number...");
+		System.out.println("c is the greater than a & b");
 	}
 	
   }
